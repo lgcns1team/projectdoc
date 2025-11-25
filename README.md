@@ -1,2 +1,4 @@
 - 📝 회의록 : [Notion](https://www.notion.so/2a4e4b7af39f8034951ac05289e522a6?v=2a4e4b7af39f80f8a517000c8d4a2eec&source=copy_link)
 - 🎨 아이디어 도출 과정 기록 : [FigJam](https://www.figma.com/board/t66FuhJ1LR17dhifKY9CFP/Untitled?node-id=0-1&t=uX6KeEPMF36kjeC8-1)
+- 산출물 관련 문서 : https://www.notion.so/2a4e4b7af39f81d08556dea827946fff
+
